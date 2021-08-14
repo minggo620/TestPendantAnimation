@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="40dp"
+    android:layout_marginTop="5dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_pendant_1"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="8dp"
+        android:src="@mipmap/s1" />
+
+    <ImageView
+        android:id="@+id/iv_pendant_2"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="7dp"
+        android:src="@mipmap/s2" />
+
+    <ImageView
+        android:id="@+id/iv_pendant_3"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="7dp"
+        android:src="@mipmap/s3" />
+
+    <ImageView
+        android:id="@+id/iv_pendant_4"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="7dp"
+        android:src="@mipmap/s4" />
+
+    <ImageView
+        android:id="@+id/iv_pendant_5"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="7dp"
+        android:src="@mipmap/s5" />
+
+    <ImageView
+        android:id="@+id/iv_pendant_6"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="7dp"
+        android:src="@mipmap/s6" />
+</LinearLayout>
